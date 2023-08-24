@@ -4,8 +4,7 @@ Welcome to the XAMPP Dashboard Page Customization project! This repository conta
 
 ## Project Overview
 
-The goal of this project is to modify the default XAMPP dashboard page to suit your preferences and needs. Whether you're a programmer, gamer, or both, you can make the dashboard reflect your style.
-
+The goal of this project is to modify the default XAMPP dashboard page to suit your preferences and needs.
 ## Features
 
 - Personalized background themes
@@ -35,8 +34,3 @@ To get started with this project, follow these steps:
 
 5. **Commit and Push**: Once you're satisfied with your changes, commit them using Git and push to your GitHub repository.
 
-\-- Mehdi
-
----
-
-Feel free to customize this template according to your project's specifics. Good luck with your XAMPP dashboard customization project! If you need further assistance or want to talk about programming in more detail, just let me know.
