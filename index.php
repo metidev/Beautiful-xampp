@@ -1,5 +1,5 @@
 <?php
-$DomainPostFix = 'localhost';
+$DomainPostFix = 'metidev';
 if (!empty($_GET['q'])) {
   switch ($_GET['q']) {
     case 'info':
@@ -40,7 +40,7 @@ function stringToColor($string)
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-lg fixed-top bg-body-tertiary">
+  <nav class="navbar navbar-expand-lg fixed-top">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
         <img src="bootstrap-5.3.1/favicon.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
